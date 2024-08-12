@@ -8,7 +8,7 @@ public class Sample {
 	public void demo()
 	{
 		Reporter.log("sample class executed",true);
-		
+		Reporter.log("sample class executed",true);
 	}
 
 }
